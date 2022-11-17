@@ -1,4 +1,4 @@
-Hi, I'm Ala!
+# Hi, I'm Ala!
 
 Currently, I'm a Computer Science student and I really enjoy coding! 
 
