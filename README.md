@@ -9,3 +9,7 @@ I'm still trying to find my path, but I know it's gonna be connected to these pr
 If you want to reach me, here's my email: 
 
 ✨ budaala4@gmail.com ✨
+
+and my linkedIn:
+
+https://www.linkedin.com/in/alicja-buda-a316b2257/
