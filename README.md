@@ -12,4 +12,4 @@ If you want to reach me, here's my email:
 
 and my linkedIn:
 
-https://www.linkedin.com/in/alicja-buda-a316b2257/
+https://www.linkedin.com/in/budaalicja/
