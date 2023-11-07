@@ -2,9 +2,9 @@
 
 Currently, I'm a Computer Science student and I really enjoy coding! 
 
-I'm learning C# at the moment as well as HTML&CSS, but I'm also into C++ and Python.
+I'm aspiring to be a frontend developer, but I love trying myself in different fields.
 
-I'm still trying to find my path, but I know it's gonna be connected to these programming languages :)
+I'm really into HTML, CSS and JavaScript, but I also know some basics of PHP, C# and Python.
 
 If you want to reach me, here's my email: 
 
