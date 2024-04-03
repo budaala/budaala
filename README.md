@@ -6,6 +6,8 @@ I'm a Computer Science student and I really enjoy coding!
 - currently learning VueJS
 - really into HTML, CSS and JavaScript (but I also know some basics of PHP, C# and Python)
 
+Here's my portfolio (still in progress): https://alicjabuda.netlify.app/
+
 If you want to reach me, here's my email: 
 
 ✨ budaala4@gmail.com ✨
