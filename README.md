@@ -4,7 +4,7 @@ I'm a Computer Science student and I really enjoy coding!
 
 - aspiring to be a frontend developer
 - currently learning VueJS
-- really into HTML, CSS and JavaScript (but I also know some basics of PHP, C# and Python)
+- really into HTML, CSS and JavaScript (but I also know some basics of C#, PHP and Python)
 
 Here's my portfolio (still in progress): 
 
